@@ -1,0 +1,8 @@
+{
+  "name": "Near-Earth Object Solar Orrery",
+  "description": "Interactive 3D Solar System Orrery visualizing Near-Earth Objects, accurate orbital mechanics, real-time close approaches, and planetary defense analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
